@@ -1,6 +1,6 @@
-import 'package:chat_app/presentation/screens/screens/auth.dart';
-import 'package:chat_app/presentation/screens/screens/chat.dart';
-import 'package:chat_app/presentation/screens/screens/splash.dart';
+import 'package:chat_app/presentation/screens/auth.dart';
+import 'package:chat_app/presentation/screens/chat.dart';
+import 'package:chat_app/presentation/screens/splash.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
 import 'package:firebase_core/firebase_core.dart';
